@@ -14,5 +14,3 @@ Open `index.html` in Chrome. Use the **Export PDF** button on the CV view to sav
 ## Lab
 
 CTI4094 Lab 11 — Publish your CV with GitHub Pages.
-
-> （注：部分内容由豆包 AI 生成）
